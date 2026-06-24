@@ -1,4 +1,4 @@
-# Metadatenprofile für Testaufgaben: Deutsch Primar
+# Metadatenprofile für Testaufgaben: Deutsch P
 
 ID of profile-store: `1dep`
 
@@ -6,7 +6,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 2 Profile definiert:
 
-## Profil "IQB Deutsch Primar - Aufgabe"
+## Profil "IQB Deutsch P - Aufgabe"
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.json)
 
@@ -25,7 +25,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.js
 | Hörsequenz Transkript | Text | Mehrzeilig, Sprache(n): de   | iqb_transcript |
 | Unverträgliche Aufgaben | Text | Einzeilig, Sprache(n): de   | iqb_compatibility |
 
-## Profil "IQB Deutsch Primar - Item"
+## Profil "IQB Deutsch P - Item"
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p112/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p112/master/item.json)
 

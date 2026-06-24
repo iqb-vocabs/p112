@@ -1,5 +1,5 @@
 ---
-title: Metadatenprofile für Testaufgaben - Deutsch Primar
+title: Metadatenprofile für Testaufgaben - Deutsch P
 lang: de
 ---
 
@@ -9,7 +9,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 2 Profile definiert:
 
-# IQB Deutsch Primar - Aufgabe
+# IQB Deutsch P - Aufgabe
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.json)
 
@@ -30,7 +30,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.js
 
 : {tbl-colwidths="[15,15,55,15]"}
 
-# IQB Deutsch Primar - Item
+# IQB Deutsch P - Item
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p112/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p112/master/item.json)
 

@@ -2,7 +2,7 @@
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.json",
   "label": [{
     "lang": "de",
-    "value": "IQB Deutsch Primar - Aufgabe"
+    "value": "IQB Deutsch P - Aufgabe"
   }],
   "target": ["UNIT"],
   "groups": [

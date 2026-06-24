@@ -2,7 +2,7 @@
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p112/master/item.json",
   "label": [{
     "lang": "de",
-    "value": "IQB Deutsch Primar - Item"
+    "value": "IQB Deutsch P - Item"
   }],
   "target": ["ITEM"],
   "groups": [
