@@ -1,9 +1,10 @@
 {
-  "id": "https://raw.githubusercontent.com/iqb-vocabs/p12/master/unit.json",
+  "id": "https://raw.githubusercontent.com/iqb-vocabs/p112/master/unit.json",
   "label": [{
     "lang": "de",
     "value": "IQB Deutsch Primar - Aufgabe"
   }],
+  "target": ["UNIT"],
   "groups": [
     {
       "label": [
@@ -21,9 +22,9 @@
               "value": "Entwickler:in"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -34,7 +35,7 @@
               "value": "Klassenstufe"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "http://w3id.org/openeduhub/vocabs/educationalLevel/",
             "allowMultipleValues": true,
@@ -49,7 +50,7 @@
               "value": "Für SPF geeignet"
             }
           ],
-          "type": "boolean",
+          "type": "BOOLEAN",
           "parameters": {
             "trueLabel": [
               {
@@ -73,7 +74,7 @@
               "value": "Kopfhörereinsatz"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v24/kh/",
             "allowMultipleValues": false,
@@ -88,7 +89,7 @@
               "value": "Kompetenzbereich"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v12/s1/",
             "allowMultipleValues": false,
@@ -103,7 +104,7 @@
               "value": "Aufgabenzeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -118,9 +119,9 @@
               "value": "Quellenangaben"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "multiline"
+            "format": "MULTILINE"
           }
         },
         {
@@ -131,7 +132,7 @@
               "value": "Textsorte"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v28/ts/",
             "allowMultipleValues": false,
@@ -146,7 +147,7 @@
               "value": "Wortanzahl"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0
@@ -160,7 +161,7 @@
               "value": "Stimuluszeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -175,9 +176,9 @@
               "value": "Hörsequenz Transkript"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "multiline"
+            "format": "MUTLILINE"
           }
         },
         {
@@ -188,9 +189,9 @@
               "value": "Unverträgliche Aufgaben"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         }
       ]
