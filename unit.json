@@ -178,7 +178,7 @@
           ],
           "type": "TEXT",
           "parameters": {
-            "format": "MUTLILINE"
+            "format": "MULTILINE"
           }
         },
         {
